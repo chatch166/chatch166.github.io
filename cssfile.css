@@ -18,6 +18,6 @@ a{
     color:yellow;
 }
 
-a:hover{
+li:hover{
     background-color: black;
 }
