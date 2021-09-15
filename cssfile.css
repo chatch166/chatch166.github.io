@@ -21,3 +21,7 @@ a{
 li.home:hover {
     background-color: black;
 }
+
+.pages{
+    background-color: coral;
+}
