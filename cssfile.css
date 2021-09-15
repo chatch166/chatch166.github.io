@@ -25,3 +25,13 @@ li.home:hover {
 .pages{
     background-color: coral;
 }
+
+#CMC {
+    background-color: darkslategray;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightslategray;
+    }
+  }
